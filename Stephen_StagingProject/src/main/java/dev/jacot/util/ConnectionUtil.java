@@ -1,5 +1,9 @@
 package dev.jacot.util;
 
-public class ConnectionUtil {
+
+
+public class ConnectionUtil 
+{
+	
 
 }
