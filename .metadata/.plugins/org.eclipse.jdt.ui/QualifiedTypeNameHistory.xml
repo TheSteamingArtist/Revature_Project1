@@ -1,2 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+    <fullyQualifiedTypeName name="java.io.InputStream"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="io.javalin.Javalin"/>
+    <fullyQualifiedTypeName name="io.javalin.http.staticfiles.Location"/>
+    <fullyQualifiedTypeName name="dev.jacot.services.CharacterService"/>
+    <fullyQualifiedTypeName name="io.javalin.http.Context"/>
+    <fullyQualifiedTypeName name="dev.jacot.repo.CharacterDAO"/>
+    <fullyQualifiedTypeName name="dev.jacot.models.ImprovCharacter"/>
+    <fullyQualifiedTypeName name="org.eclipse.jetty.client.api.Connection"/>
+    <fullyQualifiedTypeName name="dev.jacot.models.Activity"/>
+    <fullyQualifiedTypeName name="dev.jacot.util.ConnectionUtil"/>
+    <fullyQualifiedTypeName name="dev.jacot.models.Setting"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+</qualifiedTypeNameHistroy>
